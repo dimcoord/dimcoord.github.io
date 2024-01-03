@@ -1,18 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
-    <loc>https://dimcord.my.id/posts/helloworld/</loc>
-    <lastmod>2023-12-05T21:21:48+07:00</lastmod>
-  </url><url>
-    <loc>https://dimcord.my.id/posts/</loc>
-    <lastmod>2023-12-05T21:21:48+07:00</lastmod>
-  </url><url>
-    <loc>https://dimcord.my.id/</loc>
-    <lastmod>2022-08-25T21:30:04+08:00</lastmod>
-  </url><url>
-    <loc>https://dimcord.my.id/categories/</loc>
-  </url><url>
-    <loc>https://dimcord.my.id/tags/</loc>
+    <loc>https://your_domain.com/</loc>
+    <lastmod>2024-01-03T15:00:48+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://your_domain.com/posts/high-school-projects-for-the-win/</loc>
+    <lastmod>2024-01-03T15:00:48+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://your_domain.com/posts/</loc>
+    <lastmod>2024-01-03T15:00:48+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://your_domain.com/posts/building-this-site-with-hugo/</loc>
+    <lastmod>2024-01-02T15:00:48+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://your_domain.com/posts/my-first-post/</loc>
+    <lastmod>2024-01-01T03:06:50+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

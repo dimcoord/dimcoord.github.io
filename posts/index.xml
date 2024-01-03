@@ -1,19 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on dimcord blog</title>
-    <link>https://dimcord.my.id/posts/</link>
-    <description>Recent content in Posts on dimcord blog</description>
+    <title>Posts on dimcord</title>
+    <link>https://your_domain.com/posts/</link>
+    <description>Recent content in Posts on dimcord</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 05 Dec 2023 21:21:48 +0700</lastBuildDate><atom:link href="https://dimcord.my.id/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Wed, 03 Jan 2024 15:00:48 +0700</lastBuildDate><atom:link href="https://your_domain.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Helloworld</title>
-      <link>https://dimcord.my.id/posts/helloworld/</link>
-      <pubDate>Tue, 05 Dec 2023 21:21:48 +0700</pubDate>
+      <title>High School Projects For The Win!</title>
+      <link>https://your_domain.com/posts/high-school-projects-for-the-win/</link>
+      <pubDate>Wed, 03 Jan 2024 15:00:48 +0700</pubDate>
       
-      <guid>https://dimcord.my.id/posts/helloworld/</guid>
-      <description>Hello world!</description>
+      <guid>https://your_domain.com/posts/high-school-projects-for-the-win/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/posts/high-school-projects-for-the-win/featured.png" />
+    </item>
+    
+    <item>
+      <title>Building This Site with Hugo</title>
+      <link>https://your_domain.com/posts/building-this-site-with-hugo/</link>
+      <pubDate>Tue, 02 Jan 2024 15:00:48 +0700</pubDate>
+      
+      <guid>https://your_domain.com/posts/building-this-site-with-hugo/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/posts/building-this-site-with-hugo/featured.png" />
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://your_domain.com/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 2024 03:06:50 +0700</pubDate>
+      
+      <guid>https://your_domain.com/posts/my-first-post/</guid>
+      <description>Hello world and happy new year, folks!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/posts/my-first-post/featured.png" />
     </item>
     
   </channel>
