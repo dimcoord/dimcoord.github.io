@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://your_domain.com/</loc>
+    <loc>https://your_domain.com/posts/automatic-flood-early-warning-system-afews/</loc>
     <lastmod>2024-01-03T15:00:48+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://your_domain.com/posts/high-school-projects-for-the-win/</loc>
+    <loc>https://your_domain.com/</loc>
     <lastmod>2024-01-03T15:00:48+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -21,7 +21,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://your_domain.com/posts/building-this-site-with-hugo/</loc>
+    <loc>https://your_domain.com/posts/creating-a-static-website-with-hugo/</loc>
     <lastmod>2024-01-02T15:00:48+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

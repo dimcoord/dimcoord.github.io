@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on dimcord</title>
-    <link>https://your_domain.com/posts/</link>
-    <description>Recent content in Posts on dimcord</description>
+    <title>Tech on dimcord</title>
+    <link>https://your_domain.com/categories/tech/</link>
+    <description>Recent content in Tech on dimcord</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved</copyright>
-    <lastBuildDate>Wed, 03 Jan 2024 15:00:48 +0700</lastBuildDate><atom:link href="https://your_domain.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jan 2024 15:00:48 +0700</lastBuildDate><atom:link href="https://your_domain.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automatic Flood Early Warning System (AFEWS)</title>
       <link>https://your_domain.com/posts/automatic-flood-early-warning-system-afews/</link>
@@ -26,16 +26,6 @@
       <guid>https://your_domain.com/posts/creating-a-static-website-with-hugo/</guid>
       <description>As you may have noticed, this website is built on top of Hugo framework.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/posts/creating-a-static-website-with-hugo/featured.png" />
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://your_domain.com/posts/my-first-post/</link>
-      <pubDate>Mon, 01 Jan 2024 03:06:50 +0700</pubDate>
-      
-      <guid>https://your_domain.com/posts/my-first-post/</guid>
-      <description>Hello world and happy new year, folks!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/posts/my-first-post/featured.png" />
     </item>
     
   </channel>
