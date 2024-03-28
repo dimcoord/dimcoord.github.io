@@ -9,6 +9,15 @@
     <copyright>All rights reserved</copyright>
     <lastBuildDate>Wed, 03 Jan 2024 15:00:48 +0700</lastBuildDate><atom:link href="https://your_domain.com/categories/arduino/index.xml" rel="self" type="application/rss+xml" />
     <item>
+<<<<<<< HEAD
+      <title>Automatic Flood Early Warning System and Eco-drainage (AFEWS-E)</title>
+      <link>https://your_domain.com/posts/automatic-flood-early-warning-system-and-eco-drainage-afews-e/</link>
+      <pubDate>Wed, 03 Jan 2024 15:00:48 +0700</pubDate>
+      
+      <guid>https://your_domain.com/posts/automatic-flood-early-warning-system-and-eco-drainage-afews-e/</guid>
+      <description>Automatic Flood Early Warning System and Eco-drainage (AFEWS-E) is a project created to compete in FTSL Innovation Summit 2023 by the AF3WS team.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/posts/automatic-flood-early-warning-system-and-eco-drainage-afews-e/featured.png" />
+=======
       <title>Automatic Flood Early Warning System (AFEWS)</title>
       <link>https://your_domain.com/posts/automatic-flood-early-warning-system-afews/</link>
       <pubDate>Wed, 03 Jan 2024 15:00:48 +0700</pubDate>
@@ -16,6 +25,7 @@
       <guid>https://your_domain.com/posts/automatic-flood-early-warning-system-afews/</guid>
       <description>Automatic Flood Early Warning System and Eco-drainage (AFEWS-E) is a project created to compete in FTSL Innovation Summit 2023 by the AF3WS team.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/posts/automatic-flood-early-warning-system-afews/featured.png" />
+>>>>>>> 77a193f4d00b4a833f2e6c0f1b6208f69010e73d
     </item>
     
   </channel>
