@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on dimcord</title>
-    <link>http://localhost:1313/categories/tech/</link>
+    <link>https://example.org/categories/tech/</link>
     <description>Recent content in Tech on dimcord</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved</copyright>
-    <lastBuildDate>Wed, 03 Jan 2024 15:00:48 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jan 2024 15:00:48 +0700</lastBuildDate><atom:link href="https://example.org/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Automatic Flood Early Warning System and Eco-drainage (AFEWS-E)</title>
-      <link>http://localhost:1313/posts/automatic-flood-early-warning-system-and-eco-drainage-afews-e/</link>
+      <link>https://example.org/posts/automatic-flood-early-warning-system-and-eco-drainage-afews-e/</link>
       <pubDate>Wed, 03 Jan 2024 15:00:48 +0700</pubDate>
       
-      <guid>http://localhost:1313/posts/automatic-flood-early-warning-system-and-eco-drainage-afews-e/</guid>
+      <guid>https://example.org/posts/automatic-flood-early-warning-system-and-eco-drainage-afews-e/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/automatic-flood-early-warning-system-and-eco-drainage-afews-e/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/automatic-flood-early-warning-system-and-eco-drainage-afews-e/featured.png" />
     </item>
     
     <item>
       <title>Create A Free Blog In 30 minutes!</title>
-      <link>http://localhost:1313/posts/create-a-free-blog-in-30-minutes/</link>
+      <link>https://example.org/posts/create-a-free-blog-in-30-minutes/</link>
       <pubDate>Tue, 02 Jan 2024 15:00:48 +0700</pubDate>
       
-      <guid>http://localhost:1313/posts/create-a-free-blog-in-30-minutes/</guid>
+      <guid>https://example.org/posts/create-a-free-blog-in-30-minutes/</guid>
       <description>Let&amp;rsquo;s learn how to create your own website for free!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/create-a-free-blog-in-30-minutes/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/create-a-free-blog-in-30-minutes/featured.png" />
     </item>
     
   </channel>
