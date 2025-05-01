@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arduino on dimcord</title>
-    <link>//dimcoord.github.io/categories/arduino/</link>
+    <link>dimcoord.github.io/categories/arduino/</link>
     <description>Recent content in Arduino on dimcord</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved</copyright>
-    <lastBuildDate>Wed, 03 Jan 2024 15:00:48 +0700</lastBuildDate><atom:link href="//dimcoord.github.io/categories/arduino/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jan 2024 15:00:48 +0700</lastBuildDate><atom:link href="dimcoord.github.io/categories/arduino/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Automatic Flood Early Warning System and Eco-drainage (AFEWS-E)</title>
-      <link>//dimcoord.github.io/posts/automatic-flood-early-warning-system-and-eco-drainage-afews-e/</link>
+      <link>dimcoord.github.io/posts/automatic-flood-early-warning-system-and-eco-drainage-afews-e/</link>
       <pubDate>Wed, 03 Jan 2024 15:00:48 +0700</pubDate>
       
-      <guid>//dimcoord.github.io/posts/automatic-flood-early-warning-system-and-eco-drainage-afews-e/</guid>
+      <guid>dimcoord.github.io/posts/automatic-flood-early-warning-system-and-eco-drainage-afews-e/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//dimcoord.github.io/posts/automatic-flood-early-warning-system-and-eco-drainage-afews-e/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="dimcoord.github.io/posts/automatic-flood-early-warning-system-and-eco-drainage-afews-e/featured.png" />
     </item>
     
   </channel>
