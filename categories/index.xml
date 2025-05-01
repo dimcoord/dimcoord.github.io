@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on dimcord</title>
-    <link>https://dimcoord.github.io/categories/</link>
+    <link>//dimcoord.github.io/categories/</link>
     <description>Recent content in Categories on dimcord</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved</copyright>
-    <lastBuildDate>Wed, 03 Jan 2024 15:00:48 +0700</lastBuildDate><atom:link href="https://dimcoord.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jan 2024 15:00:48 +0700</lastBuildDate><atom:link href="//dimcoord.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Arduino</title>
-      <link>https://dimcoord.github.io/categories/arduino/</link>
+      <link>//dimcoord.github.io/categories/arduino/</link>
       <pubDate>Wed, 03 Jan 2024 15:00:48 +0700</pubDate>
       
-      <guid>https://dimcoord.github.io/categories/arduino/</guid>
+      <guid>//dimcoord.github.io/categories/arduino/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Internet of Things</title>
-      <link>https://dimcoord.github.io/categories/internet-of-things/</link>
+      <link>//dimcoord.github.io/categories/internet-of-things/</link>
       <pubDate>Wed, 03 Jan 2024 15:00:48 +0700</pubDate>
       
-      <guid>https://dimcoord.github.io/categories/internet-of-things/</guid>
+      <guid>//dimcoord.github.io/categories/internet-of-things/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tech</title>
-      <link>https://dimcoord.github.io/categories/tech/</link>
+      <link>//dimcoord.github.io/categories/tech/</link>
       <pubDate>Wed, 03 Jan 2024 15:00:48 +0700</pubDate>
       
-      <guid>https://dimcoord.github.io/categories/tech/</guid>
+      <guid>//dimcoord.github.io/categories/tech/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>No-Code</title>
-      <link>https://dimcoord.github.io/categories/no-code/</link>
+      <link>//dimcoord.github.io/categories/no-code/</link>
       <pubDate>Tue, 02 Jan 2024 15:00:48 +0700</pubDate>
       
-      <guid>https://dimcoord.github.io/categories/no-code/</guid>
+      <guid>//dimcoord.github.io/categories/no-code/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Web Development</title>
-      <link>https://dimcoord.github.io/categories/web-development/</link>
+      <link>//dimcoord.github.io/categories/web-development/</link>
       <pubDate>Tue, 02 Jan 2024 15:00:48 +0700</pubDate>
       
-      <guid>https://dimcoord.github.io/categories/web-development/</guid>
+      <guid>//dimcoord.github.io/categories/web-development/</guid>
       <description></description>
       
     </item>
