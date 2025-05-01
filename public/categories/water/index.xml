@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water on dimcord</title>
+    <link>http://localhost:1313/categories/water/</link>
+    <description>Recent content in Water on dimcord</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Thu, 01 May 2025 15:00:48 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/water/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Merangkai Harapan dalam Setetes Air</title>
+      <link>http://localhost:1313/posts/merangkai-harapan-dalam-setetes-air/</link>
+      <pubDate>Thu, 01 May 2025 15:00:48 +0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/merangkai-harapan-dalam-setetes-air/</guid>
+      <description>Eco-filter PLAN Indonesia</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/merangkai-harapan-dalam-setetes-air/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
