@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Development on dimcord</title>
-    <link>https://example.org/categories/web-development/</link>
+    <link>https://dimcoord.github.io/categories/web-development/</link>
     <description>Recent content in Web Development on dimcord</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved</copyright>
-    <lastBuildDate>Tue, 02 Jan 2024 15:00:48 +0700</lastBuildDate><atom:link href="https://example.org/categories/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jan 2024 15:00:48 +0700</lastBuildDate><atom:link href="https://dimcoord.github.io/categories/web-development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Create A Free Blog In 30 minutes!</title>
-      <link>https://example.org/posts/create-a-free-blog-in-30-minutes/</link>
+      <link>https://dimcoord.github.io/posts/create-a-free-blog-in-30-minutes/</link>
       <pubDate>Tue, 02 Jan 2024 15:00:48 +0700</pubDate>
       
-      <guid>https://example.org/posts/create-a-free-blog-in-30-minutes/</guid>
+      <guid>https://dimcoord.github.io/posts/create-a-free-blog-in-30-minutes/</guid>
       <description>Let&amp;rsquo;s learn how to create your own website for free!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/create-a-free-blog-in-30-minutes/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dimcoord.github.io/posts/create-a-free-blog-in-30-minutes/featured.png" />
     </item>
     
   </channel>
