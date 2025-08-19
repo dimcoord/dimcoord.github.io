@@ -3,7 +3,7 @@ title = 'Belajar Bareng Flashcard Otomatis Pake Generative AI'
 description = 'Cari tahu gimana caranya belajar efektif pake flashcard tanpa ribet'
 summary = "Cari tahu gimana caranya belajar efektif pake flashcard tanpa ribet"
 categories = ['Tech', 'AI']
-date = 2025-07-19T15:00:48+07:00
+date = 2025-08-19T15:00:48+07:00
 +++
 
 Saya menyadari tantangan yang dihadapi mahasiswa dalam mencapai potensi akademik maksimal mereka di tengah padatnya aktivitas, baik di dalam maupun di luar kampus. Sebagian besar dari mereka bertanya-tanya, "Bagaimana cara mendapatkan nilai yang bagus, atau bahkan nilai sempurna?" Pertanyaan ini mencerminkan keresahan mereka terhadap metode belajar konvensional yang sering kali terasa kurang efektif dan efisien.
